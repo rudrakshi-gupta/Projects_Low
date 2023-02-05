@@ -1,1 +1,0 @@
-img_l=Label(window,image=photobg).place(x=0,y=0)
